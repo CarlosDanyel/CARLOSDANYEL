@@ -2,13 +2,12 @@
 
 <div>
 
-  - 🔭 Hoje eu Trabalho com Front End
-  - 🌱 Estudando React, Angular e praticando meus conhcimentos 
+  - 🔭 Desenvolvedor Fullstack
+  - 🌱 Estudando Java e Banco de dados
   - ⚡ O corpo alcança o que a mente acredita! 
   ##
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosDanyel&show_icons=true&theme=transparent)
 
