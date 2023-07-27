@@ -1,7 +1,6 @@
-## Hello<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> , I am Carlos Danyel
+## Hello ✌ , I am Carlos Danyel
 
 <div>
-
   - 🔭 Hoje eu Trabalho com Front End
   - 🌱 Estudando React, Angular e praticando meus conhcimentos 
   - ⚡ O corpo alcança o que a mente acredita! 
