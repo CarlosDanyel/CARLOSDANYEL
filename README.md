@@ -6,8 +6,8 @@
   - 🌱 Estudando Java e Banco de dados
   - ⚡ O corpo alcança o que a mente acredita! 
   ##
-  <a href="www.linkedin.com/in/carlos-danyel-silva-teixeira-7b2a11210">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<a/>
-   <a href="https://www.instagram.com/_danyelzs/">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()<a/>
+  <a href="https://www.linkedin.com/in/carlos-danyel-silva-teixeira-7b2a11210">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()<a/>
+  <a href="https://www.instagram.com/_danyelzs/">[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()<a/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosDanyel&show_icons=true&theme=transparent)
 
