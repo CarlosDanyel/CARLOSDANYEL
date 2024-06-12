@@ -3,6 +3,7 @@
 <div>
 
   - 🔭 Desenvolvedor Fullstack
+  - Dev JBQ.Global
   - 🌱 Estudando Java e Banco de dados
   - ⚡ O corpo alcança o que a mente acredita! 
   ##
