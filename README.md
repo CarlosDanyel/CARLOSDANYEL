@@ -4,7 +4,6 @@
 
   - 🔭 Desenvolvedor Fullstack
   - Dev JBQ.Global
-  - 🌱 Estudando Java e Banco de dados
   - ⚡ O corpo alcança o que a mente acredita! 
   ##
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-danyel-silva-teixeira-7b2a11210)
