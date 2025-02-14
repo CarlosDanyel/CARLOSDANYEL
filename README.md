@@ -1,8 +1,8 @@
 ## Hello ✌ , I am Carlos Danyel
 
-🔭 **Desenvolvedor Fullstack**  
+🔭 **Fullstack Developer**  
 🛠️ **Dev JBQ.Global**  
-⚡ **"O corpo alcança o que a mente acredita!"**
+⚡ **"The body achieves what the mind believes!"**
 
 ---
 
