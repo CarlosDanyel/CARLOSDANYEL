@@ -1,21 +1,15 @@
 ## Hello ✌ , I am Carlos Danyel
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+🔭 **Desenvolvedor Fullstack**  
+🛠️ **Dev JBQ.Global**  
+⚡ **"O corpo alcança o que a mente acredita!"**
 
-  <div>
-    - 🔭 Desenvolvedor Fullstack<br />
-    - 🛠️ Dev JBQ.Global<br />
-    - ⚡ O corpo alcança o que a mente acredita!
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-danyel-silva-teixeira-7b2a11210)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_danyelzs/)
 
-  <div style="display: flex; gap: 0.5rem;">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-danyel-silva-teixeira-7b2a11210)
-    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_danyelzs/)
-  </div>
+---
 
-</div>
-
-##
+### 🚀 Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -33,5 +27,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-009688?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+💡 _"Persistência é o caminho do êxito."_  
+🚀 **Let's build something amazing together!**
+
 
  
