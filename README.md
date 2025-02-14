@@ -8,7 +8,7 @@
     - ⚡ O corpo alcança o que a mente acredita!
   </div>
 
-  <div>
+  <div style="display: flex; gap: 0.5rem;">
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-danyel-silva-teixeira-7b2a11210)
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_danyelzs/)
   </div>
@@ -33,4 +33,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-009688?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
  
