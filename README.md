@@ -1,7 +1,6 @@
 ## Hello ✌ , I am Carlos Danyel
 
-🔭 **Fullstack Developer**  
-🛠️ **Dev JBQ.Global**  
+🔭 **Fullstack Developer**   
 ⚡ **"The body achieves what the mind believes!"**
 
 ---
